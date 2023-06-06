@@ -4,6 +4,7 @@ body.ul {
   font-weight: bold;
   font-size: 20px;
   padding: 0;
+  background-color: antiquewhite;
 } 
 
 .container {
@@ -62,6 +63,7 @@ apariencia horizontal de la barra de navegación.*/
   .nav-links {  
     display: flex;  
     align-items: center;  
+    background-color: black;
   }  
   
   .button-menu-toggle {  
